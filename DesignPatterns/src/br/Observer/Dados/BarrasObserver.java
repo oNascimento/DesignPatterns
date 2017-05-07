@@ -31,7 +31,7 @@ public class BarrasObserver extends DadosObserver {
             barraC += '=';
         }
 
-        System.out.println("Barras:\n Valor A: " + barraA + "|\nValor B: "
+        System.out.println("Barras:\nValor A: " + barraA + "|\nValor B: "
                 + barraB + "|\nValor C: " + barraC + "|");
     }
 }
